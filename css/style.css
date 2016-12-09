@@ -1,0 +1,149 @@
+.logo{
+  height: 50px;
+}
+#haut{
+  background-image: url("../images/payments-banner-graphic.png");
+  color: white;
+  height: 550px;
+  background-color: transparent;
+
+}
+
+#haut a{
+  color: white;
+  text-decoration: none;
+  padding-left: 10px;
+}
+#comment{
+  padding: 10px;
+  position: fixed;
+  bottom: 10;
+  right: 0;
+  z-index: 1;
+}
+#comment .fa{
+  background-color: rgb(128,128,190);
+  color: white;
+}
+.navbar-toggle {
+  background-color: white ;
+}
+.navbar{
+  background-color: transparent;
+  border: none;
+}
+input {
+  color: black;
+}
+#padding{
+  padding: 50px;
+
+}
+#bordure{
+  border-right :1px solid grey;
+  border-left :1px solid grey;
+}
+#row2{
+  background-color: rgb(233, 230, 223);
+  padding: 50px;
+}
+#row2 h2{
+  padding-top: 5px;
+  font-weight: bold;
+  position: relative;
+  padding-left: 60px;
+  display: inline-block;
+}
+#row2 span{
+  color: rgb(114,114,163);
+  font-weight: normal;
+  font-size: 70px;
+  text-align: center;
+  position: absolute;
+  top : 0;
+  left : 0;
+  font-size: 50px;
+}
+#row3{
+  background-color: rgb(76,83,92);
+  padding-top: 10px;
+  color : white;
+}
+.fonddroite{
+  padding-top:60px;
+  overflow: hidden;
+  height: 500px;
+  background-color: rgb(124,213,239);
+  border :1px solid grey;
+}
+.fonddroite img{
+  border-radius: 10px;
+}
+.italique{
+  font-style: italic;
+}
+.texte{
+  padding-top: 60px;
+  padding-left: 10%;
+  height: 500px;
+  border :1px solid grey;
+
+
+  }
+.texte p {
+  color :  rgb(183,170,170);
+}
+  .fondgauche{
+    padding-top: 60px;
+    background-color: rgb(128,128,190);
+    height: 500px;
+    overflow: hidden;
+    border :1px solid grey;
+  }
+  #row5{
+    padding-top: 20px;
+    padding-bottom: 30px;
+  }
+  #row5 span{
+    font-weight: bold;
+  }
+  #row5 input {
+    background-color: rgb(0,175,135);
+    color: white;
+    border-radius: 5px;
+  }
+  .foot{
+    background-color: rgb(36,38,41);
+    overflow: hidden;
+    padding: 30px;
+
+
+
+
+  }
+  .foot li{
+    color : white;
+    list-style: none;
+
+  }
+  .foot span {
+    color : grey;
+    list-style: none;
+}
+#footer{
+
+  width: 100%;
+
+  margin-left: 7%;
+}
+footer p {
+  color : grey;
+
+}
+.gras{
+  color : rgb(255, 255, 255);
+  font-weight: bold;
+}
+#mydiv{
+  padding-top: 10px;
+}
